@@ -1,0 +1,4 @@
+*.pro.user
+Releases/
+exe/
+build/
